@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="SpringView">
-        <attr name="type">
+        <attr name="typee">
             <enum name="overlap" value="0"/>
             <enum name="follow" value="1"/>
         </attr>
